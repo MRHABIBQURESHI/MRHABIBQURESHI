@@ -1,9 +1,22 @@
 
-<h3 align="center">I am Habib</h3>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+[![MasterHead](https://github.com/MRHABIBQURESHI/MRHABIBQURESHI/blob/main/Mr.Habib.png)
 
-<img align="right" alt="coding"width="400" src="![image](https://user-images.githubusercontent.com/105902699/236669385-159f924a-414d-43fe-85d8-c419d4082dfc.png)
-">
+
+
+<h1 align="center">Hi 👋, I'm MR HABIB</h1>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/MRHABIBQURESHI1](https://github.com/@mrhabibqureshi1)
+
+- 💬 Ask me about **Programminnng**
+
+- 📫 How to reach me **mrhabib477@gmail.com**
+
+- ⚡ Fun fact **Buggati Divo Is My Crush**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhabibqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="mrhabibqureshi" /> </p>
@@ -28,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhabibqureshi&show_icons=true&locale=en" alt="mrhabibqureshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhabibqureshi&" alt="mrhabibqureshi" /></p>
+
